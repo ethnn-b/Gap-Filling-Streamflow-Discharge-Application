@@ -49,8 +49,9 @@ Ensure you have Python 3.x installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/ethnn-b/Gap-Filling-Streamflow-Discharge-Application.git
+    cd Gap-Filling-Streamflow-Discharge-Application
+
     ```
     *(Replace `<repository_url>` with your actual GitHub repository URL and `<repository_name>` with the name of your cloned directory.)*
 
