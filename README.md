@@ -53,7 +53,7 @@ Ensure you have Python 3.x installed on your system.
     cd Gap-Filling-Streamflow-Discharge-Application
 
     ```
-    *(Replace `<repository_url>` with your actual GitHub repository URL and `<repository_name>` with the name of your cloned directory.)*
+    
 
 2.  **Create a virtual environment (highly recommended):**
     ```bash
